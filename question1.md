@@ -12,4 +12,4 @@ Example: var person={
     name:"Swathy",
     job:"Full stack developer"
 }
-Person is a object stored in JSON format.Here name and job are the keys,and swathy ,full stack developer is the value.
+Person is a object stored in JSON format.Here name and job are the keys,and swathy ,full stack developer is the value
